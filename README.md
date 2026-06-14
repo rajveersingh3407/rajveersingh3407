@@ -111,14 +111,6 @@ while(success != True):
     stay_consistent()
 ```
 
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rajveersingh3407&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
-
----
-
 <p align="center">
   ⭐ From <a href="https://github.com/rajveersingh3407">Rajveer Singh</a>
 </p>
