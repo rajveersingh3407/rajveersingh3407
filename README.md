@@ -64,14 +64,6 @@ Smart railway-related application project.
 
 Personal developer portfolio website.
 
-### 🏥 Hospital Appointment App (In Progress)
-
-A platform where users can:
-
-* Find hospitals
-* View doctors
-* Book appointments online
-
 ---
 
 # 📊 GitHub Stats
